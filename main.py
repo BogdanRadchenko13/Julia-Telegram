@@ -4,7 +4,7 @@ import json
 import os
 
 # ====== Настройки ======
-TOKEN = "7663822399:AAEMuhcZQpL0suwKRrbNWLZTn6gIpniabR0"  # <- токен бота
+TOKEN = "8264933479:AAGF-ewCvb_tWYxIxAfZN3yY1fFxWpwIv5U"  # <- токен бота
 OWNER_ID = 7228049767  # <- твой Telegram user id (число без кавычек)
 
 MAPPINGS_FILE = "mappings.json"
